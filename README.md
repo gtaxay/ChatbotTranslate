@@ -1,14 +1,14 @@
 # ChatbotTranslate
 
-LexTranslate is a serverless chatbot powered by AWS that translates user-inputted text into various languages using Amazon Translate. It is designed using Amazon Lex to handle conversational interaction and AWS Lambda to process translation requests.
+ChatbotTranslate is a serverless chatbot powered by AWS that translates user inputted text into various languages using Amazon Translate. It is designed using Amazon Lex to handle conversational interaction and AWS Lambda to process translation requests.
 
 ---
 
 ## 📌 Overview
 
-LexTranslate is a cloud-native application that provides real-time language translation via chatbot interaction. The user inputs a sentence and selects a target language, and the bot responds with the translated result.
+ChatbotTranslate is a cloud application that provides language translation via chatbot interaction. The user inputs a sentence and selects a target language, and the bot responds with the translated result.
 
-It’s an ideal demonstration of building multilingual bots using AWS AI services without managing infrastructure.
+It is a demonstration of building multilingual bots using AWS AI services without managing infrastructure.
 
 ---
 
