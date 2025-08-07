@@ -61,6 +61,6 @@ To run this project, you’ll need:
 
 ## Example Input/Output
 
-<img width="664" height="666" alt="image" src="https://github.com/user-attachments/assets/4eb05fc8-0fc9-4794-92b1-6d529fb25177" />
+<img width="400" height="399" alt="image" src="https://github.com/user-attachments/assets/4eb05fc8-0fc9-4794-92b1-6d529fb25177" />
 
 
