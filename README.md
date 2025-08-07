@@ -36,7 +36,7 @@ It is a demonstration of building multilingual bots using AWS AI services withou
     {
     text: "Hello, how are you?",
     language: "French"
-  }
+    }
 
 ## Testing the Bot
 
