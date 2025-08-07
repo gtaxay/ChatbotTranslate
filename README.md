@@ -33,10 +33,10 @@ It is a demonstration of building multilingual bots using AWS AI services withou
 
 ## Example Inputs
 
-  {
-    "text": "Hello, how are you?",
-    "language": "French"
-  }
+  >{
+    >"text": "Hello, how are you?",
+    >"language": "French"
+  >}
 
 ## Testing the Bot
 
